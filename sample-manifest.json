@@ -1,0 +1,12 @@
+{
+  "export_job_id": "c59ca1c8-c645-4130-a644-cbe161a4bfd1",
+  "id_short": 156969,
+  "published_at": "2026-04-10T19:19:59Z",
+  "repo_name": "all-restaurants-in-bremerton-silverdale-port-orchard-metro-washington-us-sample-156969",
+  "sample_asset_name": "beamstation_156969_restaurants-us-bremertonsilverdaleportorchardwa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/156969/beamstation_156969_restaurants-us-bremertonsilverdaleportorchardwa_SAMPLE_DIST.csv",
+  "sample_records": 33,
+  "sample_sha256": "1718f3a8aaa89a4d1d365cb25aab2235ed13441758b6a57c8c7ed7d91b8fb7f6",
+  "sample_size_bytes": 135456,
+  "total_records": 336
+}
