@@ -1,6 +1,6 @@
 # All Restaurants in Bremerton-Silverdale-Port Orchard (Metro), Washington, US
 
-> Free BeamStation sample export with 38 rows and masked direct-contact fields.
+> Free BeamStation sample export with 39 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `156969` |
 | Location | Bremerton-Silverdale-Port Orchard, WA |
 | Category | Restaurants |
-| Full dataset size | 384 records |
-| Free sample size | 38 records (9.9%) |
-| Last export | 2026-04-21T13:04:06.369625+00:00 |
+| Full dataset size | 398 records |
+| Free sample size | 39 records (9.8%) |
+| Last export | 2026-04-28T13:59:31.091557+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-bremerton-silverdale-port-orchard-metro-washington-us-sample-156969/releases/download/sample-latest/beamstation_156969_restaurants-us-bremertonsilverdaleportorchardwa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
